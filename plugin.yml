@@ -1,0 +1,11 @@
+name: ApprovePlugin
+main: com.floyd.bukkit.approve.ApprovePlugin
+version: 1.05
+website: http://minecraft.atc.no/plugins
+author: FloydATC
+description: >
+             This plugin is used for approving new SMF forum members.
+commands:
+  approve:
+    description: Approve new SMF forum member
+    usage: /<command> Player
